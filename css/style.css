@@ -55,3 +55,22 @@ body,
   flex: 1;
   color: #fff;
 }
+
+section {
+  flex: 1;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+.banner div {
+  width: 100%;
+  height: 300px;
+}
+
+.banner div div {
+  width: 100%;
+  height: 100%;
+}
